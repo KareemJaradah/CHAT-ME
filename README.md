@@ -26,3 +26,12 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/chat_me.git
    cd chat_me
+   
+2. **Install dependencies:**
+   ```bash
+   flutter pub get
+
+3. **Run the app:**
+
+   ```bash
+   flutter run
