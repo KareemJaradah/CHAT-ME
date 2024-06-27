@@ -35,3 +35,22 @@ Ensure you have the following installed:
 
    ```bash
    flutter run
+
+### Resources
+
+New to Flutter? Here are some resources to help you get started:
+
+Lab: Write your first Flutter app
+Cookbook: Useful Flutter samples
+For further assistance with Flutter development, check out the online documentation, which provides tutorials, samples, guidance on mobile development, and a comprehensive API reference.
+
+### Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Happy Coding! 🎉
+   
