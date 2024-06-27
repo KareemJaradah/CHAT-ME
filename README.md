@@ -9,10 +9,12 @@ Welcome to **Chat Me** – a Flutter application that allows users to send and r
 - **User-Friendly Interface:** Enjoy a seamless and intuitive user experience.
 
 ## Screenshots
-![Screenshot_1719477911](https://github.com/KareemJaradah/CHAT-ME/assets/90826550/152f69e0-b531-41cc-9c4c-15146230eb28)
 
-![Screenshot_1719477929](https://github.com/KareemJaradah/CHAT-ME/assets/90826550/b0721ed1-be69-40ec-aa59-0a618a113db0)
-![Screenshot_1719406018](https://github.com/KareemJaradah/CHAT-ME/assets/90826550/ce43b2b0-abb7-4f6f-af75-13878d7b6c9f)
+<img src="https://github.com/KareemJaradah/CHAT-ME/assets/90826550/152f69e0-b531-41cc-9c4c-15146230eb28" alt="Screenshot 1" width="300">
+<img src="https://github.com/KareemJaradah/CHAT-ME/assets/90826550/b0721ed1-be69-40ec-aa59-0a618a113db0" alt="Screenshot 2" width="300">
+<img src="https://github.com/KareemJaradah/CHAT-ME/assets/90826550/ce43b2b0-abb7-4f6f-af75-13878d7b6c9f" alt="Screenshot 3" width="300">
+
+
 
 ## Getting Started
 
