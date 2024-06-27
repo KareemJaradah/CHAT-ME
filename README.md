@@ -24,7 +24,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/chat_me.git
+   git clone https://github.com/KareemJaradah/chat_me.git
    cd chat_me
    
 2. **Install dependencies:**
