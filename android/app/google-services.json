@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716750532585",
+    "project_id": "hopeful-hold-387912",
+    "storage_bucket": "hopeful-hold-387912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716750532585:android:8993d71e8336a6c5f86578",
+        "android_client_info": {
+          "package_name": "com.example.chat_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBumR7wxy1jNnQNpX_6gH0IUQZKYipY9mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716750532585:android:b0ff764149f8ec96f86578",
+        "android_client_info": {
+          "package_name": "com.example.chatvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBumR7wxy1jNnQNpX_6gH0IUQZKYipY9mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
